@@ -12,7 +12,14 @@
 big();
 //завдання 1
 
-
+//завдання 2
+let b = prompt();
+let q = prompt();
+for(let n = 2; n >0; n--){
+let a = b*(q**n);
+console.log(a);
+}
+//завдання 2
 //завдання 3
 let f =()=>{
      
